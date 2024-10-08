@@ -1,0 +1,24 @@
+
+Medium Difficulty Questions:
+1. Which teams had the highest average expected goals (xG) across all seasons, and how does that compare to their actual goals scored? (Medium)
+2. What is the correlation between possession percentage and the number of goals scored? Do teams with higher possession tend to score more? (Medium)
+3. Which teams consistently overperform their xG (i.e., score more goals than expected) across different seasons? (Medium)
+4. Which team has the best defensive record (lowest xGA) over all the seasons? Does this team also concede the fewest actual goals? (Medium)
+5. What is the average possession, shots, and shots on target for home vs. away matches? (Medium)
+6. Which opponent teams were the most difficult to score against, based on average xG allowed and actual goals conceded? (Medium)
+7. How does attendance affect team performance in home matches in terms of goals scored, xG, and possession? (Medium)
+8. Which formations were most effective in terms of the average number of goals scored and expected goals (xG)? (Medium)
+9. Assess the relationship between possession and goals scored. Do teams with higher possession percentages tend to score more goals, or is there no significant correlation? (Medium)
+10. What are the top 5 highest-attended matches, and did attendance have any significant effect on the result or team performance? (Medium)
+
+Hard Difficulty Questions:
+11. Analyze the trend of xG and xGA for the top 5 teams across the seasons. How have their offensive and defensive performances evolved? (Hard)
+12. What is the relationship between total distance covered and match outcomes (wins, losses, draws)? Do teams that cover more distance tend to win? (Hard)
+13. Which matches had the biggest discrepancy between xG and xGA and the actual result (e.g., a team with high xG and xGA difference that still lost)? (Hard)
+14. Create a season-over-season comparison of top-performing teams based on xG, goals, and possession. How consistent were their performances? (Hard)
+15. Which teams were most efficient in converting shots on target to goals? How does this efficiency compare between home and away games? (Hard)
+16. How does the number of shots and shots on target influence the probability of winning a match? What is the threshold number of shots for a high win probability? (Hard)
+17. Determine the impact of different formations on match outcomes and xG. Which formation is the most successful across all teams? (Hard)
+18. What is the trend of penalty kick success rate over the seasons for all teams? Which team has the highest success rate in penalties? (Hard)
+19. Analyze the relationship between possession and shot efficiency (shots on target per total shots). Which teams are the most efficient with lower possession, and which teams dominate possession but are less efficient in converting shots? (Hard)
+20. Which team had the most consistent performance across the seasons, based on variance in xG, goals scored, and goals conceded? (Hard)
