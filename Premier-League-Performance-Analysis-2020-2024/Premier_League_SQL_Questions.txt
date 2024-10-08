@@ -1,5 +1,3 @@
-
-Medium Difficulty Questions:
 1. Which teams had the highest average expected goals (xG) across all seasons, and how does that compare to their actual goals scored? (Medium)
 2. What is the correlation between possession percentage and the number of goals scored? Do teams with higher possession tend to score more? (Medium)
 3. Which teams consistently overperform their xG (i.e., score more goals than expected) across different seasons? (Medium)
@@ -10,8 +8,6 @@ Medium Difficulty Questions:
 8. Which formations were most effective in terms of the average number of goals scored and expected goals (xG)? (Medium)
 9. Assess the relationship between possession and goals scored. Do teams with higher possession percentages tend to score more goals, or is there no significant correlation? (Medium)
 10. What are the top 5 highest-attended matches, and did attendance have any significant effect on the result or team performance? (Medium)
-
-Hard Difficulty Questions:
 11. Analyze the trend of xG and xGA for the top 5 teams across the seasons. How have their offensive and defensive performances evolved? (Hard)
 12. What is the relationship between total distance covered and match outcomes (wins, losses, draws)? Do teams that cover more distance tend to win? (Hard)
 13. Which matches had the biggest discrepancy between xG and xGA and the actual result (e.g., a team with high xG and xGA difference that still lost)? (Hard)
