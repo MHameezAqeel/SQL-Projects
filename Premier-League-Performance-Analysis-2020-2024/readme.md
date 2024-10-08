@@ -8,7 +8,7 @@ This project explores the performance of Premier League teams between 2020 and 2
 - **Excel** for basic data cleaning
 
 ## Key Insights
-1. **Most Consistent Team**: Based on variance in xG, goals scored, and goals conceded, [Team X] had the most consistent performance across the seasons.
+1. **Most Consistent Team**: Based on variance in xG, goals scored, and goals conceded, Wolves had the most consistent performance across the seasons.
 2. **Best Formations**: The 4-2-3-1 formation consistently produced the highest average xG and goals scored.
 3. **Efficiency in Shots**: Teams with fewer but more accurate shots on target tended to have a higher win probability.
 
