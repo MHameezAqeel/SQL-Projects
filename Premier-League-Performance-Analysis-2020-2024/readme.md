@@ -4,7 +4,7 @@
 This project explores the performance of Premier League teams between 2020 and 2024. Key performance indicators such as xG (expected goals), goals scored, goals conceded, and formations were analyzed to derive insights into team consistency, efficiency, and strategies.
 
 ## Tools Used
-- ** MS SQL Server** for data analysis and querying
+- **MS SQL Server** for data analysis and querying
 - **Excel** for basic data cleaning
 
 ## Key Insights
