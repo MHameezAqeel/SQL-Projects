@@ -24,19 +24,37 @@ This project involves the analysis of product cost data from a retail database. 
   - `product_key`: Unique key associated with each product 
 
 ## 5) 📈 Key Findings  
-- Products are distributed across four primary cost categories:  
+
+### Products
+ Products are distributed across four primary cost categories:  
   - Below 100  
   - Between 100 and 500  
   - Between 500 and 1000  
-  - Above 1000  
+  - Above 1000
 - Most products fall in the **"Between 100 and 500"** category, indicating a mid-range pricing focus.  
 - A smaller share of products is priced **above 1000**, suggesting limited high-cost inventory.
 
+### Customers
+Customers are segmented into the following segments:
+    - **VIP:** Total_Sales >= 5000 AND Customer_Life >= 12 Months
+    - **Regular:** Total_Sales < 5000 AND Customer_Life >= 12 Months
+    - **New Customer:** Total_Sales < 5000 AND Customer_Life < 12 Months
+    - **High Future Potential:** Total_Sales >= 5000 AND Customer_Life < 12 Months
+- Majority of the customers fall in the "New Customers" segment.
+- Only a handful amount of customers fall in "VIP" and "High Future Potential" segments.
+
 ## 6) 🎯 Recommendations  
+
+### Products
 - Focus promotional campaigns on mid-range products due to their higher count.  
 - Consider expanding the high-cost product line if market demand supports premium offerings.  
 - Monitor low-cost product segments for volume-driven sales opportunities.
 
+### Customers
+- Since the majority of customers are new, implement personalized onboarding campaigns with product recommendations, discounts, and loyalty sign-up incentives to encourage repeat purchases and build brand connection early.
+- Offer exclusive perks, early access, or loyalty programs for VIPs to retain them, while targeting Regular customers with upgrade incentives to boost their spending and transition them into higher-value segments.
+- Closely monitor new but high-spending customers and engage them with tailored offers, premium product promotions, and proactive support to convert them into long-term VIPs.
+   
 ## 7) 🔬 Limitations  
 - The analysis is based only on product cost without incorporating demand, sales, or inventory turnover.  
 - Cost ranges are static and may not reflect dynamic market pricing behavior.  
