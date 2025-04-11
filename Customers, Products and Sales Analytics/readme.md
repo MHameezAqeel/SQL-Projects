@@ -25,21 +25,26 @@ This project involves the analysis of product cost data from a retail database. 
 
 ## 5) 📈 Key Findings  
 
+
 ### Products
+
  Products are distributed across four primary cost categories:  
   - Below 100  
   - Between 100 and 500  
   - Between 500 and 1000  
   - Above 1000
+
 - Most products fall in the **"Between 100 and 500"** category, indicating a mid-range pricing focus.  
 - A smaller share of products is priced **above 1000**, suggesting limited high-cost inventory.
 
 ### Customers
+
 Customers are segmented into the following segments:
-    - **VIP:** Total_Sales >= 5000 AND Customer_Life >= 12 Months
-    - **Regular:** Total_Sales < 5000 AND Customer_Life >= 12 Months
-    - **New Customer:** Total_Sales < 5000 AND Customer_Life < 12 Months
-    - **High Future Potential:** Total_Sales >= 5000 AND Customer_Life < 12 Months
+- **VIP:** Total_Sales >= 5000 AND Customer_Life >= 12 Months
+- **Regular:** Total_Sales < 5000 AND Customer_Life >= 12 Months
+- **New Customer:** Total_Sales < 5000 AND Customer_Life < 12 Months
+- **High Future Potential:** Total_Sales >= 5000 AND Customer_Life < 12 Months
+
 - Majority of the customers fall in the "New Customers" segment.
 - Only a handful amount of customers fall in "VIP" and "High Future Potential" segments.
 
